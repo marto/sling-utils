@@ -9,7 +9,7 @@ For AEM 6.2 and onwards
   <dependencies>
     <dependency>
       <groupId>io.marto.sling</groupId>
-      <artifactId>sling-vanity-filter</artifactId>
+      <artifactId>sling-lib</artifactId>
       <version>0.0.1</version>
     </dependency>
   </dependencies>
